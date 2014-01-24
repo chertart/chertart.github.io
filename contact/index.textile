@@ -1,0 +1,10 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/12/22 13:42:27
+.. title: Contact
+.. slug: contact
+
+You can write me email to yul<a href="http://www.google.com/recaptcha/mailhide/d?k=01f1Cb2Gm361WQAybC6wIqjA==&amp;c=lAbQuU1kExnmXmITt_BA0eadOlRT5Ix-GY-_bYVQkpY=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501f1Cb2Gm361WQAybC6wIqjA\75\75\46c\75lAbQuU1kExnmXmITt_BA0eadOlRT5Ix-GY-_bYVQkpY\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@chertart.com, contact me in social networks or just use this contact form:
+
+<iframe src="https://docs.google.com/forms/d/1MnQY37zuL5CjlWwGKBPQj45ARXZaRE-xzCDnZi6gxZk/viewform?embedded=true" width="100%" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

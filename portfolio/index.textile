@@ -1,0 +1,21 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/12/22 13:42:07
+.. title: Portfolio
+.. slug: portfolio
+
+<div class="portfolio">
+    <figure>
+        <a href="/galleries/photos/"><img src="/images/photos.jpeg" width="300" height="300" alt="Photos" /></a>
+        <figcaption>Photos</figcaption>
+    </figure>
+    <figure>
+        <a href="/galleries/copies/"><img src="/images/copies.jpeg" width="300" height="300" alt="Copies" /></a>
+        <figcaption>Copies</figcaption>
+    </figure>
+    <figure>
+        <a href="/galleries/craft/"><img src="/images/craft.jpeg" width="300" height="300" alt="Craft" /></a>
+        <figcaption>Craft</figcaption>
+    </figure>
+</div>
