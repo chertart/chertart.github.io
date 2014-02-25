@@ -6,122 +6,146 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://chertart.com/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/2013/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
+ </url>
+ <url>
+  <loc>http://chertart.com/2014/</loc>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/archive.html</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/art.html</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/art.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/conference.html</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/conference.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
+ </url>
+ <url>
+  <loc>http://chertart.com/categories/exhibition.html</loc>
+  <lastmod>2014-02-25</lastmod>
+ </url>
+ <url>
+  <loc>http://chertart.com/categories/exhibition.xml</loc>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/modern-art.html</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/modern-art.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/msudt.html</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/msudt.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/post.html</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/post.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/technology.html</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/categories/technology.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
+ </url>
+ <url>
+  <loc>http://chertart.com/categories/van-gogh-alive.html</loc>
+  <lastmod>2014-02-25</lastmod>
+ </url>
+ <url>
+  <loc>http://chertart.com/categories/van-gogh-alive.xml</loc>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/contact/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/copies/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/copies/rss.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/craft/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/craft/rss.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/photos/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/photos/rss.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/galleries/rss.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/portfolio/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/posts/first-post/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/posts/new-art-forms-in-digital-era/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
+ </url>
+ <url>
+  <loc>http://chertart.com/posts/van-gogh-alive/</loc>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/resume/</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
  <url>
   <loc>http://chertart.com/rss.xml</loc>
-  <lastmod>2013-12-30</lastmod>
+  <lastmod>2014-02-25</lastmod>
  </url>
 </urlset>
